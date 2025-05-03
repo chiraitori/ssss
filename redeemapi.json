@@ -1,0 +1,31 @@
+genshin 
+asia:
+	https://public-operation-hk4e.hoyoverse.com/common/apicdkey/api/webExchangeCdkey?uid=802228840&region=os_asia&lang=en&game_biz=hk4e_global
+eu:
+	https://sg-hk4e-api.hoyoverse.com/common/apicdkey/api/webExchangeCdkey?lang=en&game_biz=hk4e_global&uid=715052227&region=os_euro
+usa:
+	https://public-operation-hk4e.hoyoverse.com/common/apicdkey/api/webExchangeCdkey?uid=630747335&region=os_usa&lang=en&game_biz=hk4e_global
+
+hsr
+asia:
+	 'url': 'https://public-operation-hkrpg.hoyoverse.com/common/apicdkey/api/webExchangeCdkeyRisk',
+      'request' : {"game_biz":"hkrpg_global", "uid":"802554552", "region":"prod_official_asia"}
+      },
+
+eu:
+	 'url': 'https://sg-hkrpg-api.hoyoverse.com/common/apicdkey/api/webExchangeCdkeyRisk',
+      'request' : {"game_biz":"hkrpg_global", "uid":"701683615", "region":"prod_official_eur"}
+      },
+usa:
+
+zzz
+asia:
+	'url': 'https://public-operation-nap.hoyoverse.com/common/apicdkey/api/webExchangeCdkeyRisk',
+      'request' : {"game_biz":"nap_global", "uid":"1300182288", "region":"prod_gf_jp"}
+      },
+	
+eu:
+	 'url': 'https://public-operation-nap.hoyoverse.com/common/apicdkey/api/webExchangeCdkeyRisk',
+      'request' : {"game_biz":"nap_global", "uid":"1500028068", "region":"prod_gf_eu"}
+      },
+usa:
