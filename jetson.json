@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "updated_at": "2026-06-21",
+  "repos": [
+    {
+      "name": "Mornyeapp Community",
+      "url": "https://raw.githubusercontent.com/mornyeapp/Mornye-Extension/refs/heads/main/registry.json",
+      "maintainer": "spotiflacapp",
+      "verified": false
+    }
+  ]
+}
